@@ -1,0 +1,29 @@
+{
+  "repo_name": "build-trust-not-vanity",
+  "live_url": "https://ivandimitry.github.io/build-trust-not-vanity/",
+  "upload_mode": "all files in repo root",
+  "includes_chapter_visuals": true,
+  "file_count": 27,
+  "chapter_visual_count": 19,
+  "chapter_visual_files": [
+    "ch01-reach-vs-trust.png",
+    "ch02-rented-attention-vs-market-memory.png",
+    "ch03-visible-but-forgettable.png",
+    "ch04-buyer-journey-before-crm.png",
+    "ch05-commercial-truth.png",
+    "ch06-trust-compounds.png",
+    "ch07-buyer-language.png",
+    "ch08-proof-gap.png",
+    "ch09-linkedin-trust-surface.png",
+    "ch10-profile-trust-filter.png",
+    "ch11-motion-vs-weight.png",
+    "ch12-comments-are-distribution.png",
+    "ch13-team-trust.png",
+    "ch14-ai-trust-footprint.png",
+    "ch15-trust-surface-audit.png",
+    "ch16-30-day-signal-sprint.png",
+    "ch17-90-day-trust-system.png",
+    "ch18-trust-signal-dashboard.png",
+    "closing-trust-system-model.png"
+  ]
+}
